@@ -1,4 +1,4 @@
-# JavaFX
+# Contacts Desktop (JavaFX)
 
 ![screenshot](president.jpg)
 
@@ -6,7 +6,7 @@
 
 Create a desktop app for managing contacts.
 
-## Requirements
+## Tasks
 
 * Create a project called "ContactsDesktop" using IntelliJ's JavaFX template.
 * Edit `Main.java` so the title bar says "Contacts Desktop" and the window starts at 800x600.
