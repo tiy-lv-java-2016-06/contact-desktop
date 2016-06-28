@@ -27,3 +27,8 @@ Create a desktop app for managing contacts.
 * Load that file in the `initialize` method in `Controller.java`, parse it, and populate the `contacts` with it.
 
 ![screenshot](screenshot.png)
+
+## Resources
+* [Github Repo](https://github.com/tiy-lv-java-2016-06/contact-desktop)
+* [JavaFX Samples](http://docs.oracle.com/javase/8/javafx/get-started-tutorial/get_start_apps.htm#JFXST804)
+* [JavaFX Main Page](http://docs.oracle.com/javase/8/javase-clienttechnologies.htm)
