@@ -27,6 +27,10 @@ public class Controller implements Initializable{
     @FXML
     ListView list;
 
+    /**
+     * Method to add a new contact. If any contact fields are not filled, an alert will pop up and wait
+     * for user input.
+     */
     public void addContact(){
         String contactName = name.getText();
         String contactPhone = phone.getText();
@@ -60,6 +64,9 @@ public class Controller implements Initializable{
 
     }
 
+    /**
+     * Method to remove a selected contact.
+     */
     public void removeContact(){
 
         Contact contact = (Contact) list.getSelectionModel().getSelectedItem();

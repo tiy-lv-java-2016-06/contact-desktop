@@ -16,7 +16,6 @@ public class Contact {
     }
 
     @Override
-
     public String toString(){
         return String.format("%s, %s, %s", name, phone, email);
     }
